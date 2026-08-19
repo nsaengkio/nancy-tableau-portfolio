@@ -9,7 +9,7 @@ All dashboards are interactive and optimized for analytics review.
 ![Clinical Dashboard](clinical-dashboard.png)
 
 **Live Version:**  
-https://public.tableau.com/views/your-dashboard-link
+https://public.tableau.com/views/ClinicalDashboard_17870831863100/ClinicalDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ---
 
